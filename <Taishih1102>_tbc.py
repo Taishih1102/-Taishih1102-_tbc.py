@@ -125,4 +125,7 @@ def main():
     
     game = Fight(hero,monster)
     game.fightscene()
-
+    
+if __name__ == "__main__":
+    main()
+    
